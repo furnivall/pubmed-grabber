@@ -1,7 +1,4 @@
 # pubmed-grabber
-CLI tool to retrieve the full text of open access papers from PubMed Central using a DOI, written in Rust.
-
-# PubMed-grabber
 
 A command-line interface (CLI) tool written in Rust that retrieves the full text of open access papers from PubMed Central using a DOI.
 
